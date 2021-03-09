@@ -6,19 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2e627a8-ce5f-42c2-acaa-7d0eb754832a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/BP_PickableItem.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/WDG_Power.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Physics/MyRagdoll.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BatteryCollectorGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BatteryCollectorGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_BatteryMan.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_BatteryMan.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_BatteryMan_GameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_BatteryMan_GameMode.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/BatteryCollectorGame/BatteryCollectorGame.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BatteryCollectorGame/BatteryCollectorGame.Build.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/BatteryCollectorGame/BatteryMan.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BatteryCollectorGame/BatteryMan.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/BatteryCollectorGame/BatteryMan.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BatteryCollectorGame/BatteryMan.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/BatteryCollectorGame/BatteryMan_GameMode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BatteryCollectorGame/BatteryMan_GameMode.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/BatteryCollectorGame/BatteryMan_GameMode.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BatteryCollectorGame/BatteryMan_GameMode.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,7 +263,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615221323359</updated>
       <workItem from="1615221355101" duration="15953000" />
-      <workItem from="1615241635876" duration="6409000" />
+      <workItem from="1615241635876" duration="6944000" />
     </task>
     <servers />
   </component>
