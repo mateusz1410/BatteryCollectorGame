@@ -34,6 +34,23 @@ public:
 	void MoveRight(float Axis);
 
 	bool bDead;
+
+	UPROPERTY(VisibleAnywhere,BlueprintReadOnly)
+	float FPower;
+
+	UPROPERTY(EditAnywhere)
+	float  FPower_Treshold;
+
+	UFUNCTION()
+	void OnBeginOverlap(class UPrimitiveComponent* HitComp,
+		class AActor* OtherActor,class UPrimitiveComponent* OtherComp,
+		int32 OtherBodyIndex,bool bFromSweep,const FHitResult &SweepResult);
+
+	UPROPERTY(EditAnywhere,Category=UI_HUD)
+	TSubclassOf<UUserWidget> WDG_Power_Class; //ref. to class, selected class
+	UUserWidget* WDG_Power_Widget;
+
+	void RestartGame();
 	
 
 protected:
